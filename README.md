@@ -14,13 +14,20 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF69B4?style=flat-square&logo=openai&logoColor=white)
 
-> [!NOTE] 
-> #### 你知道吗？
-> Lv.35 左右的一般来说都是开挂的挂狗.
-
-<a href="https://ghfind.com/u/billow-css?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/billow-css?variant=radar&theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/billow-css?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
-  </picture>
-</a>
+<table border="0">
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <a href="https://ghfind.com/u/billow-css?ref=badge">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/billow-css?variant=radar&theme=dark&lang=zh" />
+          <img src="https://ghfind.com/api/card/mini/billow-css?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="100%" style="max-width: 440px;" />
+        </picture>
+      </a>
+      <br>
+      <sub style="color: #8b949e;">你知道吗？Lv.35 左右的一般来说都是开挂的挂狗.</sub>
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billow-css&layout=donut&theme=transparent&hide_border=true" alt="Top Langs" width="100%" style="max-width: 400px;" />
+    </td>
+  </tr>
+</table>
