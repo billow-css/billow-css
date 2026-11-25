@@ -1,3 +1,8 @@
+# Ciallo~
+
+<img width="112" height="112" alt="b143421a-2101-444f-b95f-6ec6777c67f5" src="https://github.com/user-attachments/assets/80212c1a-0c12-4d66-b6ba-58e080822c07" />
+
+
 ![全网最尊重豆包之人](https://img.shields.io/badge/-全网最尊重豆包之人-blue?style=for-the-badge)
 ![资深YES工程师](https://img.shields.io/badge/-资深YES工程师-green?style=for-the-badge)
 ![许愿式编程](https://img.shields.io/badge/-许愿式编程-purple?style=for-the-badge)
@@ -9,6 +14,9 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF69B4?style=flat-square&logo=openai&logoColor=white)
 
+> [!NOTE] 
+> #### 你知道吗？
+> Lv.35 左右的一般来说都是开挂的挂狗.
 
 <a href="https://ghfind.com/u/billow-css?ref=badge">
   <picture>
